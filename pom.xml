@@ -15,6 +15,7 @@
         <module>cloudshop-order</module>
         <module>cloudshop-product</module>
         <module>cloudshop-ware</module>
+        <module>renren-fast</module>
     </modules>
 
 </project>
